@@ -4,13 +4,13 @@
 Siwei Lai, Liheng Xu, Kang Liu, Jun Zhao 
 
  
-20News: categories: 4; train/dev/test split: 7520, 836, 5563; average length: 429; language: English 
+# 20News: categories: 4; train/dev/test split: 7520, 836, 5563; average length: 429; language: English 
 
-Fudan: categories: 20; train/dev/test split: 8823, 981, 9832; average length: 2981; language: Chinese 
+# Fudan: categories: 20; train/dev/test split: 8823, 981, 9832; average length: 2981; language: Chinese 
 
-ACL: categories: 5; train/dev/test split: 146257,28565,28157; average length: 25; language: English 
+# ACL: categories: 5; train/dev/test split: 146257,28565,28157; average length: 25; language: English 
 
-SST: categories: 5; train/dev/test split: 8544/1101/2210; average length: 19; language: English 
+# SST: categories: 5; train/dev/test split: 8544/1101/2210; average length: 19; language: English 
 
 
 
