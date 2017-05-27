@@ -1,3 +1,5 @@
+
+
 ## datasets for text classification 
 “Recurrent Convolutional Neural Networks for Text Classification “ Siwei Lai, Liheng Xu, Kang Liu, Jun Zhao 
 
@@ -17,6 +19,9 @@ categories: 5; train/dev/test split: 146257,28565,28157; average length: 25; lan
 ### SST
 
 categories: 5; train/dev/test split: 8544/1101/2210; average length: 19; language: English 
+
+
+
 
 
 
@@ -42,6 +47,9 @@ categories: 14; train/test/unlabeled split: 560000, 70000, 0; average length: 49
 ### RCV1
 
 categories: 55; train/test/unlabeled split: 15564,49838,668640; average length: 153; maximum length: 9852 
+
+
+
 
 
 ## Convolutional Neural Networks for Sentence Classification 
